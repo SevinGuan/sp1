@@ -1,2 +1,5 @@
 nihao wo zai gan ma  
 master add other
+nihao wo zai gan ma 
+dev add something
+dev add other
