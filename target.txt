@@ -1,4 +1,4 @@
 git  github
-merge branch
+git merge test
 
 
